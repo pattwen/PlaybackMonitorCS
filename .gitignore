@@ -1,0 +1,17 @@
+**/bin/
+**/obj/
+**/Properties/
+.vs/
+.downloads/
+artifacts/
+native/win-x64/*.dll
+native/win-x64/*.exe
+native/win-x64/*.txt
+native/win-x64/*.bat
+native/win-x64/Developers
+*.user
+*.sqlite3*
+TestResults/
+scripts/
+tests/
+tools/
